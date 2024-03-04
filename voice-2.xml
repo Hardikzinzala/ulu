@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-   <text:p text:style-name="Preformatted_20_Text">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;</text:p>
-   <text:p text:style-name="Preformatted_20_Text">&lt;Response&gt;</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Say voice=&quot;woman&quot;&gt;This message is from ulu app Enjoy!&lt;/Say&gt;</text:p>
-   <text:p text:style-name="Preformatted_20_Text"><text:s text:c="4"/>&lt;Play&gt;http://demo.twilio.com/docs/classic.mp3&lt;/Play&gt;</text:p>
-   <text:p text:style-name="Preformatted_20_Text">&lt;/Response&gt;</text:p>
